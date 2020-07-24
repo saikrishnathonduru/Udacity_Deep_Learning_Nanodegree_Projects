@@ -1,6 +1,6 @@
 # Predicting Bike-Sharing Patterns
 The first Udacity Project from the Deep Learning Nanodegree. Using only Numpy to implement forward and back propagation to predict Bike-Sharing Patterns.
-![GitHub Logo](/assets/neural_network.png)
+![GitHub Logo](/Project-1: Prediction-Bike_Sharing/assets/neural_network.png)
 ## Setup:
 1. Create a conda environment:
 Make sure you have installed: numpy matplotlib pandas jupyter notebook
@@ -24,7 +24,7 @@ source activate deep-learning
 jupyter notebook
 ```
 * The server is located in: [localhost:8888](localhost:8888/tree)
-4. Open the Jupyter notebook called: [Your_first_neural_network.ipynb](/Your_first_neural_network.ipynb)
+4. Open the Jupyter notebook called: [pbs_mainfile.ipynb](/pbs_mainfile.ipynb)
 * The data comes from: [UCI Machine Learning Database](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset)
 ## Results to expect:
 ### Training and validation loss:
