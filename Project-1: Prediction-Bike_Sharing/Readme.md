@@ -1,6 +1,6 @@
 # Predicting Bike-Sharing Patterns
 The first Udacity Project from the Deep Learning Nanodegree. Using only Numpy to implement forward and back propagation to predict Bike-Sharing Patterns.
-![GitHub Logo](/Project-1: Prediction-Bike_Sharing/assets/neural_network.png)
+![GitHub Logo](https://github.com/saikrishnathonduru/Udacity_Deep_Learning_Nanodegree_Projects/blob/master/Project-1:%20Prediction-Bike_Sharing/assets/neural_network.png)
 ## Setup:
 1. Create a conda environment:
 Make sure you have installed: numpy matplotlib pandas jupyter notebook
@@ -28,8 +28,8 @@ jupyter notebook
 * The data comes from: [UCI Machine Learning Database](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset)
 ## Results to expect:
 ### Training and validation loss:
-![GitHub Logo](/assets/loss.png)
+![GitHub Logo](https://github.com/saikrishnathonduru/Udacity_Deep_Learning_Nanodegree_Projects/blob/master/Project-1:%20Prediction-Bike_Sharing/assets/loss.png)
 ### Predictions after training:
-![GitHub Logo](/assets/predictions.png)
+![GitHub Logo](https://github.com/saikrishnathonduru/Udacity_Deep_Learning_Nanodegree_Projects/blob/master/Project-1:%20Prediction-Bike_Sharing/assets/predictions.png)
 ## Conclusions
 The predictions are acceptable but in the December the model overestimes bike ridership because it hasn't had sufficient holiday season training examples.
