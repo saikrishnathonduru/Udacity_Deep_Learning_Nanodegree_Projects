@@ -24,7 +24,7 @@ source activate deep-learning
 jupyter notebook
 ```
 * The server is located in: [localhost:8888](localhost:8888/tree)
-4. Open the Jupyter notebook called: [pbs_mainfile.ipynb](/pbs_mainfile.ipynb)
+4. Open the Jupyter notebook called: [pbs_mainfile.ipynb](https://github.com/saikrishnathonduru/Udacity_Deep_Learning_Nanodegree_Projects/blob/master/Project-1:%20Prediction-Bike_Sharing/pbs_mainfile.ipynb)
 * The data comes from: [UCI Machine Learning Database](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset)
 ## Results to expect:
 ### Training and validation loss:
